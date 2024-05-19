@@ -1,6 +1,6 @@
 //Declaraçao de variáveis
 let listaDeNumerosSorteados = [];
-let numeroLimite = 5;
+let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
